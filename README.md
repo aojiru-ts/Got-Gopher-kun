@@ -6,7 +6,7 @@ Gopher-kun informs you of a typo in the git command.
 
 ## Requirement
 
-I have only verified it on Linux(CentOS 7).  
+Does not work on Windows.  
 
 ## License
 
